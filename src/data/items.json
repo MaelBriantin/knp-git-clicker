@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Intern",
+    "price": 10,
+    "linesPerMillisecond": 0.001
+  },
+  {
+    "name": "Junior dev",
+    "price": 100,
+    "linesPerMillisecond": 0.1
+  },
+  {
+    "name": "Dependabot",
+    "price": 1000,
+    "linesPerMillisecond": 10
+  }
+]
